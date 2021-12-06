@@ -1,15 +1,11 @@
 ## 개요
 
----
-
 - Objection detection분야에서 최초로 딥러닝을 적용시킨 RCNN 모델에 대해 정리
 - Fast-RCNN, Faster-RCNN, Mask-RCNN과 같이 RCNN 기반 모델에 대해 정리
 
 ![https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F3I4GG%2Fbtqt1YgvsBE%2FffE10j1X4V6i7kWNWY8EAk%2Fimg.png](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F3I4GG%2Fbtqt1YgvsBE%2FffE10j1X4V6i7kWNWY8EAk%2Fimg.png)
 
 ## 모델 설명
-
----
 
 ### 1. RCNN
 
