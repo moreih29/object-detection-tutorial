@@ -33,7 +33,7 @@
     
     1. Region Proposal (영역 제안)
         
-        [https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbPSomg%2FbtqugDuIClm%2F85f12kCkHxLUFMu8aI6fA0%2Fimg.png](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbPSomg%2FbtqugDuIClm%2F85f12kCkHxLUFMu8aI6fA0%2Fimg.png)
+        ![https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbPSomg%2FbtqugDuIClm%2F85f12kCkHxLUFMu8aI6fA0%2Fimg.png](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbPSomg%2FbtqugDuIClm%2F85f12kCkHxLUFMu8aI6fA0%2Fimg.png)
         
         - Segmentation에서 많이 사용되는 selective search 알고리즘 사용
         - 위의 그림과 같이 색감(Color), 질감(Texture) 또는 에워싸임(Enclosed) 여부를 판단해 영역을 나눔
